@@ -111,7 +111,7 @@ docker exec -it zerotier-planet build moonid
 ##### 七、创建网络及加入网络
 
 *   浏览器打开网站：`http://IPaddress:3000`或`https://IPaddress:3443`
-*   登录：`默认用户：admin 默认密码：loganjin.cn`
+*   登录：`默认用户：admin 默认密码：password`
 *   点击`Add network`输入网络名称 点击`Create Network`
 *   点击`Network`查看**Network ID**
 *   客户端加入网络：`zerotier-cli  join Network ID`
