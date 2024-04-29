@@ -12,7 +12,7 @@
 ### 镜像简介
 
 *   [x] 默认用户：`admin`
-*   [x] 默认密码：`loganjin.cn`
+*   [x] 默认密码：`password`
 *   [x] zerotier-one版本：`1.12.2`
 *   [x] 基础镜像：`debian:bullseye-slim`
 *   [x] 附加功能：`构建planet、构建mooon、查询配置moon方法`
